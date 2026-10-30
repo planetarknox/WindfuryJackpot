@@ -1,0 +1,14 @@
+## Interface: 00000
+## Title: WindfuryJackpot
+## Notes: Local combat-log sniffer for Windfury procs. Prints to your own chat window only.
+## Version: 0.1.0
+## SavedVariables: WindfuryJackpotLog
+
+# PLACEHOLDER: 00000 is not a real Interface number. This client is not out yet,
+# so the number is unknown and the addon will show as "out of date" until you
+# replace it. In game, run:
+#   /dump select(4, GetBuildInfo())
+# and put that number on the Interface line above. Until then, tick
+# "Load out of date AddOns" on the character-select AddOns screen.
+
+WindfuryJackpot.lua
